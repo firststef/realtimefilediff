@@ -6,3 +6,4 @@ You can use
 ```
 realtimefilediff <file>
 ```
+and get it from the releases tab.
