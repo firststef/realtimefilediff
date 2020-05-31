@@ -1,9 +1,7 @@
 # realtimefilediff
 
-Visual Studio permits you to view your pc memory and see what changed (in debug mode ofc). But what if you need to debug files?
-
-You can use
+Debugging permits you to view your pc memory and see what changed. But what if you need to debug files and see what changed from second to second? This tool could be useful if you want to inspect files while viewing the bytes in hex.
 ```
-realtimefilediff <file>
+realtimefilediff.exe <file>
 ```
-and get it from the releases tab.
+You get it from the releases tab.
